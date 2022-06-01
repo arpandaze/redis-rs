@@ -385,6 +385,7 @@ pub use crate::types::{
     // utility types
     InfoDict,
     NumericBehavior,
+    ExpiryOption,
 
     // error and result types
     RedisError,
